@@ -5,4 +5,4 @@
 
 This is a public repository for an open-ended research project titled 022694.
 
-<a href="http://s129147.info" target="_blank">http://s129147.info</a>
+<a href="http://s129147.info" target="_blank">s129147</a>
