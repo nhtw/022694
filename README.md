@@ -1,6 +1,6 @@
 # 022694
 
->Not all forms of the commons are open access. Some, like the air we breathe, are open, while others, like the streets of our cities, are open in principle but regulated, policed, and even privately managed in the form of business-improvement districts. And some, like a common water resource controlled by  fty farmers, are from the very start exclusive to a particular social group.
+>Not all forms of the commons are open access. Some, like the air we breathe, are open, while others, like the streets of our cities, are open in principle but regulated, policed, and even privately managed in the form of business-improvement districts. And some, like a common water resource controlled by  fifty farmers, are from the very start exclusive to a particular social group.
 
 — David Harvey, _The Future of the Commons_
 
